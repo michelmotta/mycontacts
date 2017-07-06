@@ -1,0 +1,83 @@
+body{
+	background: #dcdcdc;
+}
+.navbar-inverse {
+    /*background: #4D5061;*/
+    background: #2A3F54;
+    border-bottom: 4px solid #1ABB9C;
+    color: #FFF;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+}
+.label,.glyphicon { 
+	margin-right: 10px; 
+}
+.card {
+    position: relative;
+    background: #ffffff;
+    border-radius: 3px;
+    padding: 20px;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 1px 5px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.2);
+    margin-bottom: 30px;
+    transition: all 0.3s ease-in-out;
+}
+.dataTables_wrapper{
+	margin-top: 30px;
+} 
+.btn-footer{
+    margin-top: 30px;
+}
+label{
+    margin-top: 10px;
+}
+.alert-success {
+    color: #fff;
+    background-color: #60B078;
+    border-color: #d6e9c6;
+}
+.close {
+    opacity: 1;
+}
+.select2{
+    width: 100% !important;
+}
+.btn-primary{
+    background: #2A3F54;
+}
+.clickable{
+    cursor: pointer;   
+}
+
+.panel-heading span {
+    margin-top: -20px;
+    font-size: 15px;
+}
+.panel-primary>.panel-heading {
+    color: #fff;
+    /*background-color: #4D5061;*/
+    background: #2A3F54;
+    border-color: #2A3F54;
+}
+.panel-body{
+    border-bottom: 3px solid #1ABB9C;
+    border-right: 1px solid #fff;
+    border-left: 1px solid #fff;
+}
+.panel-body h2, p{
+    color: #2A3F54;
+}
+.panel-primary{
+    border-color: #60B078;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    padding-right: 30px;
+    padding-left: 30px;
+    background: #fff;
+}
+.dataTable tr td{
+    color: #2A3F54;
+}
+
+    
